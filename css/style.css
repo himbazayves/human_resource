@@ -1,0 +1,51 @@
+.login
+{
+    width: 30%;
+    height: 68%;
+    position: relative;
+    left: 35%;
+    top: 15%;
+    box-shadow: 1px 0px 2px 1px rgba(11, 87, 110, 0.959);
+}
+.login p{
+    font-size: 20px;
+    color: blue;
+    position: relative;
+    top: 20vh;
+    left: 6vw;
+}
+.login input
+{
+    width: 60%;
+    height: 6%;
+
+}
+.head
+{
+    background: #7579ff;
+    height:60px;
+    width:100%;
+}
+.register
+{
+    width: 30%;
+    height: 90%;
+    position: relative;
+    left: 35%;
+    top: 5%;
+    box-shadow: 1px 0px 2px 1px rgba(11, 87, 110, 0.959);
+}
+.register p{
+    font-size: 20px;
+    color: blue;
+    position: relative;
+    top: 0vh;;
+    left: 6vw;
+}
+.register input
+{
+    width: 60%;
+    height: 5%;
+
+}
+
